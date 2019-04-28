@@ -9,7 +9,7 @@ our @ISA = qw(Exporter);
 
 # I export nothing, so there aren't any @EXPORT* declarations
 
-our $VERSION = '0.09';
+our $VERSION = '0.10';
 
 use Params::Validate qw/:all/;
 use Regexp::Common;
